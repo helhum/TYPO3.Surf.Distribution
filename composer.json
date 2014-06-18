@@ -1,0 +1,6 @@
+{
+	"minimum-stability": "dev",
+	"require": {
+		"typo3/surf": "*"
+	}
+}
