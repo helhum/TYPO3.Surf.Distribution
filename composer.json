@@ -1,5 +1,5 @@
 {
-    "name": "helhum/typo3-surf-cms-distribution",
+    "name": "typo3-surf-cms/distribution",
     "description" : "TYPO3 Surf Distribution featuring tools to accomodate TYPO3 CMS deployments",
     "license": "LGPL-3.0+",
     "config": {
