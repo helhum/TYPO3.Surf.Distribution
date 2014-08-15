@@ -10,7 +10,7 @@
         "typo3/flow": "2.2.*",
         "doctrine/migrations": "@dev",
         "typo3/surf": "@dev",
-        "typo3surfcms/surftools": "@dev",
+        "typo3surfcms/surftools": "1.0.*@dev",
         "typo3/buildessentials": "2.2.*"
     },
     "scripts": {
