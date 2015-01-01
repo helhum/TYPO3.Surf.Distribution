@@ -1,4 +1,4 @@
-TYPO3SurfCMS.Distribution
+# This repository is deprecated.
 ==================================
 
-TYPO3 Surf Distribution featuring tools to accomodate TYPO3 CMS deployments
+Please use https://github.com/TYPO3-Surf-CMS/Surf.CMS instead
